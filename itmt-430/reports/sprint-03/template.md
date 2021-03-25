@@ -1,8 +1,12 @@
 # Sprint-03 Written Report
 
-## Team Number XX
+## Team Number 01
 
-List team members and roles here
+Project Manager - Matthew Hofmann
+Developer - Nick Bledsoe
+Jr. Developer / Security - Natalie Freund
+UIUX Developer - Abdulaziz Aldossari
+IT Infrastructure - Harshini Chellasamy
 
 ### UI/UX Artifacts
 
